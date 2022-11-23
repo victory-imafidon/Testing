@@ -1,4 +1,4 @@
-## Hi there, I'm Iain 👋
+##Hi there, I'm Iain 👋
 
 - 👔   I'm an Incoming Analytics and Data Strategy Associate at <a href="https://ankura.com/" target="_new">Ankura</a>
 - 🎒   I graduated from University of Virginia's McIntire School of Commerce with a B.S. in Commerce. I concentrated in Finance and Information Technology, with a track in Quantitative Finance; I also completed minors in Computer Science and Data Science.
